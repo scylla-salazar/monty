@@ -4,7 +4,6 @@
   *f_sub - this function performs subtraction
   *@head: stack head/
   *@counter: line_num/
-
   *Return: no return
  */
 
